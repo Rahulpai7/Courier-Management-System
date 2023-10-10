@@ -18,8 +18,8 @@
 <body>
 <footer class="footer">
 
-  <p style="margin-top: 4px;margin-bottom:-10px"> Designed By Rahul Pai and Gaurav Pai</p><br>
-  <a href="mailto:premkumar1215225@gmail.com" style="color:brown">ContactUs</a>
+  <p style="margin-top: 4px;margin-bottom:-10px"> Designed By Rahul Pai</p><br>
+  <a href="mailto:rahulgpaig@gmail.com" style="color:brown">ContactUs</a>
 
 </footer>
 
