@@ -29,7 +29,7 @@ if(isset($_SESSION['uid'])){
         <h2> Lightning Courier Management Service</h2>
         <h4>Nitte Courier Service</h4><br><br>
         <h3>DBMS MINI PROJECT</h3>
-        <h6>By Rahul Pai And Gaurav Pai</h6>
+        <h6>By Rahul Pai </h6>
     </div>
 </body>
 </html>
